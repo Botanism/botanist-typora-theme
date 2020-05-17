@@ -31,12 +31,12 @@ Once you installed it, you only need to select it in `Themes`.
 
 ## Screen-shots
 
-![1589745272959](/home/user/.config/Typora/typora-user-images/1589745272959.png)
+![Screenshot 1](screenshots/screenshot1.png)
 
 
 
-![1589745327965](/home/user/.config/Typora/typora-user-images/1589745327965.png)
+![Screenshot 2](screenshots/screenshot2.png)
 
 
 
-![1589745511847](/home/user/.config/Typora/typora-user-images/1589745511847.png)
+![Screenshot 3](screenshots/screenshot3.png)
