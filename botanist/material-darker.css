@@ -23,8 +23,8 @@
   color: #545454;
 }
 
-.cm-s-inner .CodeMirror-cursor {
-  border-left: 1px solid #FFCC00;
+.cm-s-inner div.CodeMirror-cursor {
+  border-left: 2px solid #FF5370;
 }
 
 .cm-s-inner div.CodeMirror-selected {
